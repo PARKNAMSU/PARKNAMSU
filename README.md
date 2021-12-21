@@ -31,6 +31,8 @@
 
 ### ETC
 
+<img alt="AWS" src="https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
 ## Project
 
 ## Stats
