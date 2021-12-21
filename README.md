@@ -1,5 +1,7 @@
 # Introduce
 
+📚Codestate(2021.08 ~ )
+
 ## Certificate
 
 #### SQLD
