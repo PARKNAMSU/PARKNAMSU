@@ -1,5 +1,10 @@
 # Introduce
 
+## Certificate
+
+* SQLD
+* 정보처리 기사
+
 ## Technology Stack
 
 ### Programming Language
