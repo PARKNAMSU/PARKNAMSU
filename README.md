@@ -39,7 +39,7 @@
 
 ### ETC
 
-<img alt="AWS" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-41454A?style=for-the-badge&logoColor=white" /> ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apach-tomcat&logoColor=white)
+<img alt="AWS" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-41454A?style=for-the-badge&logoColor=white" /> ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
 ## Project
 
