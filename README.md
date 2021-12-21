@@ -35,7 +35,7 @@
 
 ### ETC
 
-<img alt="AWS" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-41454A?style=for-the-badge&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=amazon_aws&logoColor=white" /> <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-41454A?style=for-the-badge&logoColor=white" />
 
 
 ## Project
