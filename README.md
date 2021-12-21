@@ -23,7 +23,7 @@
 
 ### OS
 
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white) ![Window](https://img.shields.io/badge/Window-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Version Control
 
