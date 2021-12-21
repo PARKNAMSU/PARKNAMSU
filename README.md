@@ -16,7 +16,7 @@
 ### DataBase
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=MySQL&logoColor=white&style=plastic" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic" />
 ### Framework
-<img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic" />
+<img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic" /> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic" />
 ### Version Control
 
 ### Deployment
