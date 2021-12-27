@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white) <img alt="NodeJs" src ="https://img.shields.io/badge/NodeJs-green.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 ### Design / Layout
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![CSS](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### DataBase / ORM
 
@@ -37,11 +37,11 @@
 
 ### Deployment
 
-<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=ec2&logoColor=white" />
 
 ### ETC
 
-<img alt="AWS" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-41454A?style=for-the-badge&logoColor=white" /> ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-41454A?style=for-the-badge&logoColor=white" /> ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 ## Project
 
