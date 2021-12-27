@@ -41,7 +41,7 @@
 
 ### Library
 
-<img alt="AWS" src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img alt="JWT" src="https://img.shields.io/badge/jwt-232F3E?style=for-the-badge&logo=jwt&logoColor=white" /> 
 
 ### Tool / ETC
 
