@@ -37,7 +37,9 @@
 
 ### Deployment
 
-<img alt="AWS" src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img alt="AWS" src="https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img alt="AWS" src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 ### ETC
 
