@@ -9,7 +9,7 @@
 * 발급기관: [한국 데이터 산업 진흥원](https://www.dataq.or.kr/www/main.do)
 #### 정보처리 기사
 * 합격일자: 2021.11.26
-* 발급기관: [한국산업인력공단](https://www.hrdkorea.or.kr/)
+* 발급기관: [한국 산업 인력공단](https://www.hrdkorea.or.kr/)
 ## Technology Stack
 
 ### Programming Language
