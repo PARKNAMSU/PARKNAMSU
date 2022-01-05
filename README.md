@@ -41,7 +41,7 @@
 
 ### Library
 
-<img alt="JWT" src="https://img.shields.io/badge/jwt-232F3E?style=for-the-badge&logo=jason-web-token&logoColor=white" /> 
+<img alt="JWT" src="https://img.shields.io/badge/jwt-232F3E?style=for-the-badge&logo=jasonwebtoken&logoColor=white" /> 
 
 ### Tool / ETC
 
