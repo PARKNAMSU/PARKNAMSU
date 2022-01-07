@@ -55,9 +55,7 @@
 ## Project
 
 ### Right Now
-
-#### Project explane
-
+![](https://cdn.discordapp.com/attachments/919801014239002675/928634523980271626/rightnow_logo.png)
 사용자의 현재 위치를 기반으로 주변의 같은 관심사의 다른 사용자들과 자동으로 모임을 매칭시켜 주는 위치기반 서비스
 
 
