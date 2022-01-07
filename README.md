@@ -54,6 +54,14 @@
 
 ## Project
 
+### Right Now
+
+#### Project explane
+
+사용자의 현재 위치를 기반으로 주변의 같은 관심사의 다른 사용자들과 자동으로 모임을 매칭시켜 주는 위치기반 서비스
+
+
+
 ## Stats
 [![Namsu Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKNAMSU&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
