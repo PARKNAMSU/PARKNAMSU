@@ -2,7 +2,7 @@
 
 📚Codestate(2021.08 ~ )
 
-## Certificate
+## 📄 Certificate
 
 #### SQLD
 * 합격일자: 2020.10.06
@@ -10,7 +10,8 @@
 #### 정보처리 기사
 * 합격일자: 2021.11.26
 * 발급기관: [한국 산업 인력공단](https://www.hrdkorea.or.kr/)
-## Technology Stack
+
+## 🖥 Technology Stack
 
 ### Programming Language
 
@@ -52,7 +53,7 @@
 
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
-## Project
+## 📑 Project
 
 ### Right Now
 
@@ -69,7 +70,7 @@
 #### 🧑🏻‍💻 포지션 : Backend
 
 
-## Stats
+## 📊 Stats
 [![Namsu Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKNAMSU&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
