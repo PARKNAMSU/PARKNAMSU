@@ -11,6 +11,8 @@
 * 합격일자: 2021.11.26
 * 발급기관: [한국 산업 인력공단](https://www.hrdkorea.or.kr/)
 
+<br>
+
 ## 🖥 Technology Stack
 
 ### Programming Language
@@ -53,6 +55,8 @@
 
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
+<br>
+
 ## 📑 Project
 
 ### Right Now
@@ -69,6 +73,7 @@
 
 #### 🧑🏻‍💻 포지션 : Backend
 
+<br>
 
 ## 📊 Stats
 [![Namsu Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKNAMSU&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
