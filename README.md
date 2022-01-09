@@ -75,6 +75,12 @@
 
 <br>
 
+## 📖 Study Logs 
+
+[Tody I Learn](https://github.com/PARKNAMSU/TIL)
+
+[Engineering Blog](https://nspark.tistory.com/)
+
 ## 📊 Stats
 [![Namsu Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKNAMSU&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
