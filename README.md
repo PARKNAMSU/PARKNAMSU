@@ -73,6 +73,24 @@
 
 #### 🧑🏻‍💻 포지션 : Backend
 
+#### 👔 역할
+- Basic
+  - 아이디어 기획
+  - Architecture Diagram 작성
+  - DB 작성
+  - API 작성
+- Front
+  - 클라이언트 소켓 통신 구현
+- Back
+  - 모임 자동매칭 소켓 통신 구현
+  - 모임 채팅방 소켓 통신 구현
+  - 메세지 CRUD
+  - 모임 방 관리 기능
+  - KAKAO 위치데이터 가져오기
+- Deploy
+  - 서버 EC2 인스턴스에 배포
+  - RDS DB서버 구축
+
 <br>
 
 ## 📖 Study Logs 
