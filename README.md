@@ -69,7 +69,7 @@
 
 #### 📁 gihub : [깃허브 주소](https://github.com/codestates/rightnow)
 
-#### 📂 deploy : [배포 주소]()
+#### 📂 deploy : [배포 주소](http://final-project-rightnow.s3-website.ap-northeast-2.amazonaws.com/)
 
 #### 🧑🏻‍💻 포지션 : Backend
 
