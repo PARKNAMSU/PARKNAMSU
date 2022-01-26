@@ -136,9 +136,9 @@ html, css, javascript 및 React 기초 등 프론트엔드 개발에 필요한 �
 
 #### 👨‍👨‍👧‍👧 참여인원 : 4명
 
-#### 📁 gihub : [깃허브 주소](https://www.right-now.link)
+#### 📁 gihub : [깃허브 주소](https://github.com/codestates/rightnow)
 
-#### 📂 deploy : [배포 주소](http://final-project-rightnow.s3-website.ap-northeast-2.amazonaws.com/)
+#### 📂 deploy : [배포 주소](https://www.right-now.link)
 
 #### 🧑🏻‍💻 포지션 : Backend
 
