@@ -1,6 +1,6 @@
 # Introduce
 
-### 이력서 : [박남수_백엔드](https://brainy-ballcap-627.notion.site/NodeJS-60d74b4006e74e99a9f1302462c0242d)
+### 이력서 : [박남수_백엔드](https://brainy-ballcap-627.notion.site/bda3d5daa0d5463f8e76b21f1b17877f)
 
 
 ## 📑 Project
