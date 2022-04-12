@@ -3,6 +3,18 @@
 ### 이력서 : [박남수_백엔드](https://brainy-ballcap-627.notion.site/bda3d5daa0d5463f8e76b21f1b17877f)
 
 
+## Career
+
+### 영우DSP(2021.03 ~ 2021.08)
+
+#### 포지션 : 제어 개발자
+
+<br>
+
+### 탑툰(2021.04 ~ )
+
+#### 포지션 : 백엔드 개발자
+
 ## 📑 Project
 
 ### Right Now
