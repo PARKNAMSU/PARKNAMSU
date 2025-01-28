@@ -38,6 +38,7 @@
 ## 📖 Study Logs 
 
 [notion Blog](https://brainy-ballcap-627.notion.site/Personal-Blog-2b62247d19754b67af7f480e339b216a?pvs=4)
+
 [Tody I Learn](https://github.com/PARKNAMSU/TIL)
 
 [Engineering Blog](https://nspark.tistory.com/)
